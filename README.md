@@ -8,3 +8,5 @@ Multilayer Perception implementation
 - Uses MNIST dataset
 
 <i>Must unzip 7z file to run notebook</i>
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
